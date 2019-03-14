@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/aliyun-oss" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/guli-commonservice-eureka" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/guli-commonservice-oss" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/guli-commonservice-sysuser" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/guli-framework-common" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/guli-framework-parent" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/guli-microservice-edu" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/guli-microservice-statistics" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/guli-microservice-ucenter" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/guli-microservice-vod" charset="UTF-8" />
+  </component>
+</project>

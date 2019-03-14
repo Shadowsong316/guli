@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/aliyun-oss/aliyun-oss.iml" filepath="$PROJECT_DIR$/aliyun-oss/aliyun-oss.iml" />
+      <module fileurl="file://$PROJECT_DIR$/excel-poi/excel-poi.iml" filepath="$PROJECT_DIR$/excel-poi/excel-poi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/guli.iml" filepath="$PROJECT_DIR$/.idea/guli.iml" />
+      <module fileurl="file://$PROJECT_DIR$/guli-commonservice-eureka/guli-commonservice-eureka.iml" filepath="$PROJECT_DIR$/guli-commonservice-eureka/guli-commonservice-eureka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/guli-commonservice-oss/guli-commonservice-oss.iml" filepath="$PROJECT_DIR$/guli-commonservice-oss/guli-commonservice-oss.iml" />
+      <module fileurl="file://$PROJECT_DIR$/guli-commonservice-sysuser/guli-commonservice-sysuser.iml" filepath="$PROJECT_DIR$/guli-commonservice-sysuser/guli-commonservice-sysuser.iml" />
+      <module fileurl="file://$PROJECT_DIR$/guli-framework-common/guli-framework-common.iml" filepath="$PROJECT_DIR$/guli-framework-common/guli-framework-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/guli-framework-parent/guli-framework-parent.iml" filepath="$PROJECT_DIR$/guli-framework-parent/guli-framework-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/guli-microservice-edu/guli-microservice-edu.iml" filepath="$PROJECT_DIR$/guli-microservice-edu/guli-microservice-edu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/guli-microservice-statistics/guli-microservice-statistics.iml" filepath="$PROJECT_DIR$/guli-microservice-statistics/guli-microservice-statistics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/guli-microservice-ucenter/guli-microservice-ucenter.iml" filepath="$PROJECT_DIR$/guli-microservice-ucenter/guli-microservice-ucenter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/guli-microservice-vod/guli-microservice-vod.iml" filepath="$PROJECT_DIR$/guli-microservice-vod/guli-microservice-vod.iml" />
+    </modules>
+  </component>
+</project>

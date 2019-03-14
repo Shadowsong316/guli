@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="aliyun-oss" />
+        <module name="excel-poi" />
+        <module name="guli-commonservice-eureka" />
+        <module name="guli-commonservice-oss" />
+        <module name="guli-commonservice-sysuser" />
+        <module name="guli-framework-common" />
+        <module name="guli-microservice-edu" />
+        <module name="guli-microservice-statistics" />
+        <module name="guli-microservice-ucenter" />
+        <module name="guli-microservice-vod" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="aliyun-oss" target="1.8" />
+      <module name="excel-poi" target="1.8" />
+      <module name="guli-commonservice-eureka" target="1.8" />
+      <module name="guli-commonservice-oss" target="1.8" />
+      <module name="guli-commonservice-sysuser" target="1.8" />
+      <module name="guli-framework-common" target="1.8" />
+      <module name="guli-framework-parent" target="1.8" />
+      <module name="guli-microservice-edu" target="1.8" />
+      <module name="guli-microservice-statistics" target="1.8" />
+      <module name="guli-microservice-ucenter" target="1.8" />
+      <module name="guli-microservice-vod" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
